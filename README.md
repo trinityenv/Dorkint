@@ -20,7 +20,3 @@ Alternatively, if you are on Linux or macOS, you can use the following command i
 sudo apt update
 sudo apt install python3
 git clone https://github.com/trinityenv/Dorkint.git
-
-
-
-
