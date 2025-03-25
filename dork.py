@@ -6,11 +6,6 @@ import time
 import sys
 
 def start():
-    # class color:
-    #     grey = '\033[90m',
-    #     green = '\033[92m',
-    #     cyan = '\033[96m'
-    
 
     tiktok = "https://www.tiktok.com/@disturbingyt"
     github = "https://github.com/trinityenv"
