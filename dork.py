@@ -98,59 +98,6 @@ def start():
     else:
         print("Invalid choice")
 
-
-
 start()
 
-
-
-
-
-# def search():
-
-#     website_prompt = input("Website: ").strip().lower()
-#     if website_prompt == "":
-#         print("Invalid input. Please enter a website.")
-#     else:
-#         pass
-
-#     domain_prompt = input("Domain: ").strip().lower()
-#     if domain_prompt == "":
-#         print("Invalid input. Please enter a domain.")
-#     else:
-#         pass
-         
-#     print("1. PDF")
-#     print("2. XLS")
-#     print("3. DOC")
-#     print("4. TXT")
-#     print("5. PPT")
-
-#     filetype_prompt = input("> ")  
-
-#     if filetype_prompt.isdigit():  
-
-#         filetype_choice = int(filetype_prompt)
-
-#         if filetype_choice == 1:
-#             filetype = "pdf"
-#         elif filetype_choice == 2:
-#             filetype = "xls"
-#         elif filetype_choice == 2:
-#             filetype = "xls"
-#         elif filetype_choice == 3:
-#             filetype = "doc"
-#         elif filetype_choice == 4:
-#             filetype = "txt"
-#         elif filetype_choice == 5:
-#                 filetype = "ppt"       
-#     else:
-#         print("Invalid input.")
-#         return search()
-    
-#     url = f"https://www.google.com/search?q=filetype:{filetype}+site:{website_prompt}.{domain_prompt}"
-
-#     webbrowser.open_new(url)
-
-# search()
 
