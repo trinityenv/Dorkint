@@ -13,13 +13,13 @@ def start():
  | |__| | (_) | |  |   <| | | | | |_ 
  |_____/ \___/|_|  |_|\_\_|_| |_|\__|
                         
-                       \033[96m [ 1.0 ]
-                        \033[91m[ by trinityenv ]
+                       \033[96m [ 1.0 ]\33[0m
+                        \033[91m[ by trinityenv ]\33[0m
                                                               
 
     \n
-\033[91mFollow on tiktok:    \033[96m{tiktok}
-\033[91mFollow me on github: \033[96m{github}
+\033[91mFollow on tiktok:    \033[0{tiktok}
+\033[91mFollow me on github: \033[0{github}
 
 """)
     
