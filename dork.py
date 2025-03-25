@@ -1,10 +1,5 @@
 import webbrowser
-
-
-
 import time
-import sys
-
 def start():
 
     tiktok = "https://www.tiktok.com/@disturbingyt"
