@@ -13,7 +13,14 @@ Ensure that you have **Python** installed on your system. You can download the l
 
 Alternatively, if you are on Linux or macOS, you can use the following command in your terminal to install Python:
 
+
+
 #### For Linux (Debian-based):
 ```bash
 sudo apt update
 sudo apt install python3
+git clone https://github.com/trinityenv/Dorkint.git
+
+
+
+
